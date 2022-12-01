@@ -23,7 +23,7 @@
 
 ![Login Page](/frontend/src/Images/login.jpg?raw=true)
 
-![Dashboard](/frontend/src/Images/dashboard.jpg?raw=true)
+![Dashboard](/frontend/src/Images/dashboard.png?raw=true)
 
 ![Project Page](/frontend/src/Images/profile.jpg?raw=true)
 
