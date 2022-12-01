@@ -17,17 +17,17 @@
 
 ## Screenshots
 
-![Landing Page](/frontend/src/Images/landing.jpg)
+![Landing Page](/frontend/src/Images/landing.jpg?raw=true)
 
-![Sign Up Page](/frontend/src/Images/register.jpg)
+![Sign Up Page](/frontend/src/Images/register.jpg?raw=true)
 
-![Login Page](/frontend/src/Images/login.jpg)
+![Login Page](/frontend/src/Images/login.jpg?raw=true)
 
-![Dashboard](/frontend/src/Images/dashboard.jpg)
+![Dashboard](/frontend/src/Images/dashboard.jpg?raw=true)
 
-![Project Page](/frontend/src/Images/profile.jpg)
+![Project Page](/frontend/src/Images/profile.jpg?raw=true)
 
-![Profile Page](/frontend/src/Images/project.jpg)
+![Profile Page](/frontend/src/Images/project.jpg?raw=true)
 
 
 ## How to Start
