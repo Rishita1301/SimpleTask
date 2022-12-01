@@ -17,17 +17,17 @@
 
 ## Screenshots
 
-![Landing Page](/frontend/src/Images/landing.jpg?raw=true)
+![Landing Page](https://raw.github.com/Rishita1301/SimpleTask/main/fronted/src/Images/landing.jpg)
 
-![Sign Up Page](/frontend/src/Images/register.jpg?raw=true)
+![Sign Up Page](https://raw.github.com/Rishita1301/SimpleTask/main/fronted/src/Images/register.jpg)
 
-![Login Page](/frontend/src/Images/login.jpg?raw=true)
+![Login Page](https://raw.github.com/Rishita1301/SimpleTask/main/fronted/src/Images/login.jpg)
 
-![Dashboard](/frontend/src/Images/dashboard.png?raw=true)
+![Dashboard](https://raw.github.com/Rishita1301/SimpleTask/main/fronted/src/Images/dashboard.png)
 
-![Project Page](/frontend/src/Images/profile.jpg?raw=true)
+![Project Page](https://raw.github.com/Rishita1301/SimpleTask/main/fronted/src/Images/project.jpg)
 
-![Profile Page](/frontend/src/Images/project.jpg?raw=true)
+![Profile Page](https://raw.github.com/Rishita1301/SimpleTask/main/fronted/src/Images/profile.jpg)
 
 
 ## How to Start
